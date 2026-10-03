@@ -1,0 +1,8 @@
+2Saved 111 clean records to Disney_Cruise_Results.csv
+
+--- HACKATHON QUESTION ANSWERS ---
+(i) Total Pacific cruises: 2
+(ii) Total cruises: 111
+(iii) Total holiday cruises: 48
+(iv) Cruises with >2 dates: 48
+(v) Cruises departing from Miami/London: 0

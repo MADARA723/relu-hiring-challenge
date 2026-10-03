@@ -1,0 +1,7 @@
+--- HACKATHON QUESTION ANSWERS (TARGET 2) ---
+(i) Total Ingredients: 522
+(ii) Total Finished Products: 207
+(iii) Companies with Herbs and Spices: 26
+(iv) Companies with Physical Delivery Formats: 32
+(v) Companies in Cognitive & Mental Health: 21
+========================================
